@@ -8,9 +8,14 @@ A chatbot application that allows users to interact with an AI-powered chatbot a
 - Seamless integration with the OpenAI API for generating AI responses.
 - New chat button to clear previous conversations.
 
-<img src="preview/ss1.png" alt="Alt text" width=50% >
-<img src="ss2.png" alt="Alt text" width=50% >
-<img src="ss3.png" alt="Alt text" width=50%>
+#### Generate relevant answers using the latest "text-davinci-003" model:
+<img src="Chatbot_ss/ss2.png" alt="Alt text" width=50% >
+
+#### Loading icon display:
+<img src="Chatbot_ss/ss1.png" alt="Alt text" width=50% >
+
+#### Ability to respond to follow-ups:
+<img src="Chatbot_ss/ss3.png" alt="Alt text" width=50%>
 
 ## Tech-Stack used :
 
